@@ -2,10 +2,24 @@
 
 <hr/>
 
-
+# THIS PROJECT IS ARCHIVED
 
 > [!CAUTION]
 > This repository is now archived. It is an old copy of the codebase over at https://github.com/Unknown6656/AutoIt-Interpreter.
+
+
+**Comparison between the old repo (this one) and the new one (https://github.com/Unknown6656/AutoIt-Interpreter):**
+
+Category | [new AutoIt3 Interpreter](https://github.com/Unknown6656/AutoIt-Interpreter) | old AutoIt++ Interpiler
+---------|---------------------|--------------------
+Supported Language| Strict AutoIt 3<br/>with extension support | AutoIt 3<br/>AutoIt++ 
+Works as an ... | Interpreter | Interpiler/Transpiler:<br/>60% compiler, 30% interpreter, 10% magic 
+Written in | C#, F# | C#, F#
+Target Framework | .NET 8 and newer | .NET Core 2.1
+Works on Windows | Yes | Yup
+Works on Linux | Yes | Kinda
+Works on MacOs | Yes | Kinda
+Status | [In development](https://github.com/Unknown6656/AutoIt-Interpreter/projects/1) | Discontinued, Beta-ish
 
 
 # Preamble
