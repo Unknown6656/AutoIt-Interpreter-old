@@ -1,5 +1,13 @@
 ![Banner image](artwork/banner.png)
 
+<hr/>
+
+
+
+> [!CAUTION]
+> This repository is now archived. It is an old copy of the codebase over at https://github.com/Unknown6656/AutoIt-Interpreter.
+
+
 # Preamble
 
 One should call this project _"AutoIt++ **Interpiler**"_, as it is an interpreter from a C#'s point of view - but works more like a compiler when viewing it from AutoIt's side....
@@ -8,7 +16,7 @@ It kind of interprets everything and transforms it into C# code, which then gets
 
 So we call it an **Interpiler** for now...
 
-# The AutoIt++ ~Interpreter~ Interpiler
+# The AutoIt++ <s>Interpreter</s> Interpiler
 
 This project is an Interpiler written to target a custom flavour of the _AutoIt3_ scripting language called _"AutoIt++"_ (even though it has nothing to do with C++).
 
